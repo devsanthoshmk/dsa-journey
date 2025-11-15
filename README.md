@@ -6,151 +6,151 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 ## **Beginner Problems**
 
-[ ] Language Basics <br>
-[ ] Logic Building (Patterns) <br>
-[ ] Patterns <br>
-[ ] Time Complexity <br>
-[ ] STL and Collections <br>
-[ ] Concept Basics <br>
-[ ] Basic Maths <br>
-[ ] Basic Arrays <br>
-[ ] Basic Hashing <br>
-[ ] Basic Strings <br>
-[ ] Basic Recursion <br>
+- [ ] Language Basics
+- [ ] Logic Building (Patterns)
+- [ ] Patterns
+- [ ] Time Complexity
+- [ ] STL and Collections
+- [ ] Concept Basics
+- [ ] Basic Maths
+- [ ] Basic Arrays
+- [ ] Basic Hashing
+- [ ] Basic Strings
+- [ ] Basic Recursion
 
 ## **Sorting**
 
-[ ] Algorithms <br>
+- [ ] Algorithms
 
 ## **Arrays**
 
-[ ] Fundamentals <br>
-[ ] Logic Building <br>
-[ ] FAQs (Medium) <br>
-[ ] FAQs (Hard) <br>
-[ ] Contest <br>
+- [ ] Fundamentals
+- [ ] Logic Building
+- [ ] FAQs (Medium)
+- [ ] FAQs (Hard)
+- [ ] Contest
 
 ## **Hashing**
 
-[ ] Theory <br>
-[ ] FAQs <br>
-[ ] Contest <br>
+- [ ] Theory
+- [ ] FAQs
+- [ ] Contest
 
 ## **Binary Search**
 
-[ ] Fundamentals <br>
-[ ] Logic Building <br>
-[ ] On Answers <br>
-[ ] FAQs <br>
-[ ] 2D Arrays <br>
-[ ] Contest <br>
+- [ ] Fundamentals
+- [ ] Logic Building
+- [ ] On Answers
+- [ ] FAQs
+- [ ] 2D Arrays
+- [ ] Contest
 
 ## **Recursion**
 
-[ ] Implementation Problems <br>
-[ ] Subsequence Pattern Problems <br>
-[ ] FAQs (Medium) <br>
-[ ] Hard <br>
-[ ] FAQs (Hard) <br>
-[ ] Contest <br>
+- [ ] Implementation Problems
+- [ ] Subsequence Pattern Problems
+- [ ] FAQs (Medium)
+- [ ] Hard
+- [ ] FAQs (Hard)
+- [ ] Contest
 
 ## **Linked List**
 
-[ ] Fundamentals (Single LL) <br>
-[ ] Fundamentals (Doubly LL) <br>
-[ ] Logic Building <br>
-[ ] FAQs (Medium) <br>
-[ ] FAQs (Hard) <br>
-[ ] FAQs (DLL) <br>
-[ ] Contest <br>
+- [ ] Fundamentals (Single LL)
+- [ ] Fundamentals (Doubly LL)
+- [ ] Logic Building
+- [ ] FAQs (Medium)
+- [ ] FAQs (Hard)
+- [ ] FAQs (DLL)
+- [ ] Contest
 
 ## **Bit Manipulation**
 
-[ ] Theory <br>
-[ ] Problems <br>
-[ ] Contest <br>
+- [ ] Theory
+- [ ] Problems
+- [ ] Contest
 
 ## **Greedy Algorithms**
 
-[ ] Easy <br>
-[ ] Scheduling and Interval Problems <br>
-[ ] Hard <br>
-[ ] Contest <br>
+- [ ] Easy
+- [ ] Scheduling and Interval Problems
+- [ ] Hard
+- [ ] Contest
 
 ## **Sliding Window / Two Pointer**
 
-[ ] Pattern and Template <br>
-[ ] Constant Window <br>
-[ ] Longest & Smallest Window Problems <br>
-[ ] Counting Subarrays / Substrings Problems <br>
-[ ] Contest <br>
+- [ ] Pattern and Template
+- [ ] Constant Window
+- [ ] Longest & Smallest Window Problems
+- [ ] Counting Subarrays / Substrings Problems
+- [ ] Contest
 
 ## **Stack / Queues**
 
-[ ] Implementation <br>
-[ ] Monotonic Stack <br>
-[ ] FAQs <br>
-[ ] Contest <br>
+- [ ] Implementation
+- [ ] Monotonic Stack
+- [ ] FAQs
+- [ ] Contest
 
 ## **Binary Trees**
 
-[ ] Theory / Traversals <br>
-[ ] Medium Problems <br>
-[ ] FAQs <br>
-[ ] Construction Problems <br>
-[ ] Traversal in Constant Space <br>
-[ ] Contest <br>
+- [ ] Theory / Traversals
+- [ ] Medium Problems
+- [ ] FAQs
+- [ ] Construction Problems
+- [ ] Traversal in Constant Space
+- [ ] Contest
 
 ## **Binary Search Trees**
 
-[ ] Theory and Basics <br>
-[ ] Medium <br>
-[ ] FAQs <br>
-[ ] Contest <br>
+- [ ] Theory and Basics
+- [ ] Medium
+- [ ] FAQs
+- [ ] Contest
 
 ## **Heaps**
 
-[ ] Theory and Implementation <br>
-[ ] FAQs <br>
-[ ] Contest <br>
+- [ ] Theory and Implementation
+- [ ] FAQs
+- [ ] Contest
 
 ## **Graphs**
 
-[ ] Theory and Traversals <br>
-[ ] Traversal Problems <br>
-[ ] Cycles <br>
-[ ] Hard Problems <br>
-[ ] Shortest Path Algorithms <br>
-[ ] Minimum Spanning Tree <br>
-[ ] Hard Problems II <br>
-[ ] Additional Algorithms <br>
-[ ] Contest <br>
+- [ ] Theory and Traversals
+- [ ] Traversal Problems
+- [ ] Cycles
+- [ ] Hard Problems
+- [ ] Shortest Path Algorithms
+- [ ] Minimum Spanning Tree
+- [ ] Hard Problems II
+- [ ] Additional Algorithms
+- [ ] Contest
 
 ## **Dynamic Programming**
 
-[ ] Introduction <br>
-[ ] 1D DP <br>
-[ ] 2D DP <br>
-[ ] DP on Grids <br>
-[ ] DP on Stocks <br>
-[ ] DP on Subsequences <br>
-[ ] LIS <br>
-[ ] DP on Strings <br>
-[ ] MCM DP <br>
-[ ] Contest <br>
+- [ ] Introduction
+- [ ] 1D DP
+- [ ] 2D DP
+- [ ] DP on Grids
+- [ ] DP on Stocks
+- [ ] DP on Subsequences
+- [ ] LIS
+- [ ] DP on Strings
+- [ ] MCM DP
+- [ ] Contest
 
 ## **Tries**
 
-[ ] Theory <br>
-[ ] Problems <br>
+- [ ] Theory
+- [ ] Problems
 
 ## **Strings (Advanced Algorithms)**
 
-[ ] Medium Problems <br>
-[ ] Advanced Problems (Less Asked) <br>
-[ ] Contest <br>
+- [ ] Medium Problems
+- [ ] Advanced Problems (Less Asked)
+- [ ] Contest
 
 ## **Maths**
 
-[ ] Sieve of Eratosthenes <br>
-[ ] Contest <br>
+- [ ] Sieve of Eratosthenes
+- [ ] Contest

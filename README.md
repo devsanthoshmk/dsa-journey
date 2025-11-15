@@ -4,23 +4,17 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 # My Todo List:
 
-## **Beginner Problems**
-
-- [ ] Language Basics
-- [ ] Logic Building (Patterns)
-- [ ] Patterns
-- [ ] Time Complexity
-- [ ] STL and Collections
-- [ ] Concept Basics
-- [ ] Basic Maths
-- [ ] Basic Arrays
-- [ ] Basic Hashing
-- [ ] Basic Strings
-- [ ] Basic Recursion
-
 ## **Sorting**
 
-- [ ] Algorithms
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Heap Sort
+- [ ] Counting Sort
+- [ ] Radix Sort
+- [ ] Bucket Sort
 
 ## **Arrays**
 

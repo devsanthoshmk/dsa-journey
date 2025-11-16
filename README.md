@@ -6,15 +6,15 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 ## **Sorting**
 
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
+- [x] Bubble Sort
+- [x] Selection Sort
+- [x] Insertion Sort
+- [x] Merge Sort
+- [x] Quick Sort
 - [ ] Heap Sort
-- [ ] Counting Sort
+- [x] Counting Sort
 - [ ] Radix Sort
-- [ ] Bucket Sort
+- [x] Bucket Sort
 
 ## **Arrays**
 

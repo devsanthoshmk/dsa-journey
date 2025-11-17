@@ -20,11 +20,11 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 - [ ] Lec 1: Easy
 
-  - [ ] Second Largest Element in an Array without sorting
-  - [ ] Check if the array is sorted and rotated
-  - [ ] Find the Kth smallest and largest element in an array
-  - [ ] Find the largest three elements in an array
-  - [ ] Find the first repeating element
+  - [x] Second Largest Element in an Array without sorting
+  - [x] Check if the array is sorted and rotated
+  - [x] Find the Kth smallest and largest element in an array
+  - [x] Find the largest three elements in an array
+  - [x] Find the first repeating element
   - [ ] Remove duplicates from Sorted array
   - [ ] Left Rotate an array by one place
   - [ ] Left rotate an array by D places

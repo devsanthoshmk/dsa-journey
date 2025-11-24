@@ -39,6 +39,22 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
   - [x] Longest subarray with sum K (positives + negatives)
 
 - [ ] Lec 2: Medium
+
+  - [ ] 2Sum Problem
+  - [ ] Sort an array of 0's 1's and 2's
+  - [ ] Majority Element (>n/2 times)
+  - [ ] Kadane's Algorithm, maximum subarray sum
+  - [ ] Print subarray with maximum subarray sum (extended version of above problem)
+  - [ ] Stock Buy and Sell
+  - [ ] Rearrange the array in alternating positive and negative items
+  - [ ] Next Permutation
+  - [ ] Leaders in an Array problem
+  - [ ] Longest Consecutive Sequence in an Array
+  - [ ] Set Matrix Zeros
+  - [ ] Rotate Matrix by 90 degrees
+  - [ ] Print the matrix in spiral manner
+  - [ ] Count subarrays with given sum
+
 - [ ] Lec 3: Hard
 
 ## **Hashing**

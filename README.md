@@ -40,9 +40,9 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 - [ ] Lec 2: Medium
 
-  - [ ] 2Sum Problem
-  - [ ] Sort an array of 0's 1's and 2's
-  - [ ] Majority Element (>n/2 times)
+  - [x] 2Sum Problem
+  - [x] Sort an array of 0's 1's and 2's
+  - [x] Majority Element (>n/2 times)
   - [ ] Kadane's Algorithm, maximum subarray sum
   - [ ] Print subarray with maximum subarray sum (extended version of above problem)
   - [ ] Stock Buy and Sell

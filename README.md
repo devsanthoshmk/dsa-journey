@@ -18,7 +18,7 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
 
 ## **Arrays**
 
-- [ ] Lec 1: Easy
+- [x] Lec 1: Easy
 
   - [x] Second Largest Element in an Array without sorting
   - [x] Check if the array is sorted and rotated
@@ -31,12 +31,12 @@ A blog to document my journey toward mastering Data Structures and Algorithms (D
   - [x] Move Zeros to end
   - [x] Linear Search
   - [x] Find the Intersection
-  - [ ] Find the Union
-  - [ ] Find missing number in an array
-  - [ ] Maximum Consecutive Ones
-  - [ ] Find the number that appears once, and other numbers twice.
-  - [ ] Longest subarray with given sum K (positives)
-  - [ ] Longest subarray with sum K (positives + negatives)
+  - [x] Find the Union
+  - [x] Find missing number in an array
+  - [x] Maximum Consecutive Ones
+  - [x] Find the number that appears once, and other numbers twice.
+  - [x] Longest subarray with given sum K (positives)
+  - [x] Longest subarray with sum K (positives + negatives)
 
 - [ ] Lec 2: Medium
 - [ ] Lec 3: Hard

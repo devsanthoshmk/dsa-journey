@@ -48,7 +48,7 @@
   - [x] Leaders in an Array problem
   - [x] Longest Consecutive Sequence in an Array
   - [x] Set Matrix Zeros
-  - [ ] Rotate Matrix by 90 degrees
+  - [x] Rotate Matrix by 90 degrees
   - [ ] Print the matrix in spiral manner
   - [ ] Count subarrays with given sum
 
@@ -63,10 +63,10 @@
 
 - [ ] Lec 1: BS on 1D Arrays
 
-  - [] Binary Search to find X in sorted array
+  - [x] Binary Search to find X in sorted array
   - [ ] Implement Lower Bound
   - [ ] Implement Upper Bound
-  - [ ] Search Insert Position
+  - [x] Search Insert Position
   - [ ] Floor/Ceil in Sorted Array
   - [ ] Find the first or last occurrence of a given number in a sorted array
   - [ ] Count occurrences of a number in a sorted array with duplicates

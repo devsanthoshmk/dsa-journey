@@ -56,9 +56,8 @@
 
 ## **Hashing**
 
-- [ ] Theory
-- [ ] FAQs
-- [ ] Contest
+- [x] Theory
+- [x] FAQs
 
 ## **Binary Search**
 

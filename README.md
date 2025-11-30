@@ -106,13 +106,14 @@
 
 - [ ] Lec 1: Basic and Easy String Problems
 
-  - [ ] Remove outermost Paranthesis
-  - [ ] Reverse words in a given string / Palindrome Check
-  - [ ] Largest odd number in a string
-  - [ ] Longest Common Prefix
-  - [ ] Isomorphic String
-  - [ ] check whether one string is a rotation of another
-  - [ ] Check if two strings are anagram of each other
+  - [x] Remove outermost Paranthesis
+  - [x] Reverse words in a given string / Palindrome Check
+  - [x] Largest odd number in a string
+  - [x] Longest Common Prefix
+  - [x] Smallest Missing Integer Greater Than Sequential Prefix Sum
+  - [x] Isomorphic String
+  - [x] check whether one string is a rotation of another
+  - [x] Check if two strings are anagram of each other
 
 ## **Recursion**
 

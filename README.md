@@ -1,233 +1,291 @@
-# Developer Journey toward DSA
+# Data structures and algorithms practice and DSA solutions for coding interview prep
 
-# My Todo List:
+This repository tracks data structures and algorithms practice across 19 topic categories. Engineers use this structured syllabus to organize DSA solutions, record practice sessions, and guide coding interview prep.
 
-## **Sorting**
+The roadmap covers foundational computer science topics ranging from elementary sorting algorithms to dynamic programming and graph traversals. The tracker records 155 specific practice problems, with 54 marked complete and 101 pending implementation.
 
-- [x] Bubble Sort
-- [x] Selection Sort
-- [x] Insertion Sort
-- [x] Merge Sort
-- [x] Quick Sort
-- [ ] Heap Sort
-- [x] Counting Sort
-- [ ] Radix Sort
-- [x] Bucket Sort
+## Repository layout
 
-## **Arrays**
+The repository maintains a single tracker file at the root.
 
-- [x] Lec 1: Easy
+```
+dsa-journey/
+  README.md
+```
 
-  - [x] Second Largest Element in an Array without sorting
-  - [x] Check if the array is sorted and rotated
-  - [x] Find the Kth smallest and largest element in an array
-  - [x] Find the largest three elements in an array
-  - [x] Find the first repeating element
-  - [x] Remove duplicates from Sorted array
-  - [x] Left Rotate an array by one place
-  - [x] Left rotate an array by D places
-  - [x] Move Zeros to end
-  - [x] Linear Search
-  - [x] Find the Intersection
-  - [x] Find the Union
-  - [x] Find missing number in an array
-  - [x] Maximum Consecutive Ones
-  - [x] Find the number that appears once, and other numbers twice.
-  - [x] Longest subarray with given sum K (positives)
-  - [x] Longest subarray with sum K (positives + negatives)
+- `README.md` stores the topic curriculum, completion statuses, and workflow guidelines.
+- Future code implementations and test files belong in dedicated language folders such as `solutions/` or `src/`.
 
-- [x] Lec 2: Medium
+## Setup
 
-  - [x] 2Sum Problem
-  - [x] Sort an array of 0's 1's and 2's
-  - [x] Majority Element (>n/2 times)
-  - [x] Kadane's Algorithm, maximum subarray sum
-  - [x] Stock Buy and Sell
-  - [x] Rearrange the array in alternating positive and negative items
-  - [x] Next Permutation
-  - [x] Leaders in an Array problem
-  - [x] Longest Consecutive Sequence in an Array
-  - [x] Set Matrix Zeros
-  - [x] Rotate Matrix by 90 degrees
-  - [x] Print the matrix in spiral manner
-  - [x] Count subarrays with given sum
+Clone the repository to a local workstation with Git:
 
-- [ ] Lec 3: Hard
+```bash
+git clone https://github.com/devsanthoshmk/dsa-journey.git
+cd dsa-journey
+```
 
-  - [x] Pascal's Triangle
-  - [x] Majority Element (n/3 times)
-  - [x] 3-Sum Problem
-  - [x] 4-Sum Problem
-  - [x] Reverse Pairs
-  - [ ] Maximum Product Subarray
+Inspect the local repository status:
 
-## **Hashing**
+```bash
+git status
+```
+
+The repository requires no external runtime, compiler, or third-party dependency to read or update the markdown tracker.
+
+## Usage
+
+Track problem solving progress by updating the markdown checklist directly.
+
+1. Open `README.md` in any text editor.
+2. Choose an unsolved problem from the progress checklist.
+3. Implement and test the algorithm locally.
+4. Change the problem item status from `- [ ]` to `- [x]`.
+5. Stage, commit, and push the revision:
+
+```bash
+git add README.md
+git commit -m "docs: mark problem as completed"
+git push origin main
+```
+
+## Configuration
+
+The tracking document uses standard GitHub-flavored Markdown. It requires no environment variables or configuration files.
+
+Formatting conventions:
+- File encoding: UTF-8 without byte order marks.
+- Line delimiters: Unix style line feeds.
+- Character style: Straight quotes with no decorative emojis or symbol substitutes.
+
+## Progress checklist
+
+### Sorting
+
+- [x] Bubble sort
+- [x] Selection sort
+- [x] Insertion sort
+- [x] Merge sort
+- [x] Quick sort
+- [ ] Heap sort
+- [x] Counting sort
+- [ ] Radix sort
+- [x] Bucket sort
+
+### Arrays
+
+#### Easy array problems
+
+- [x] Second largest element in an array without sorting
+- [x] Check if the array is sorted and rotated
+- [x] Find the kth smallest and largest element in an array
+- [x] Find the largest three elements in an array
+- [x] Find the first repeating element
+- [x] Remove duplicates from sorted array
+- [x] Left rotate an array by one place
+- [x] Left rotate an array by d places
+- [x] Move zeros to end
+- [x] Linear search
+- [x] Find the intersection
+- [x] Find the union
+- [x] Find missing number in an array
+- [x] Maximum consecutive ones
+- [x] Find the number that appears once while other numbers appear twice
+- [x] Longest subarray with given sum k for positive numbers
+- [x] Longest subarray with sum k for positive and negative numbers
+
+#### Medium array problems
+
+- [x] Two sum problem
+- [x] Sort an array of zeros, ones, and twos
+- [x] Majority element with more than n/2 frequency
+- [x] Kadane's algorithm for maximum subarray sum
+- [x] Stock buy and sell
+- [x] Rearrange the array in alternating positive and negative items
+- [x] Next permutation
+- [x] Leaders in an array problem
+- [x] Longest consecutive sequence in an array
+- [x] Set matrix zeros
+- [x] Rotate matrix by 90 degrees
+- [x] Print the matrix in spiral manner
+- [x] Count subarrays with given sum
+
+#### Hard array problems
+
+- [x] Pascal's triangle
+- [x] Majority element with more than n/3 frequency
+- [x] Three sum problem
+- [x] Four sum problem
+- [x] Reverse pairs
+- [ ] Maximum product subarray
+
+### Hashing
 
 - [x] Theory
-- [x] FAQs
+- [x] Frequently asked questions
 
-## **Binary Search**
+### Binary search
 
-- [ ] Lec 1: BS on 1D Arrays
+#### Binary search on one-dimensional arrays
 
-  - [x] Binary Search to find X in sorted array
-  - [ ] Implement Lower Bound
-  - [ ] Implement Upper Bound
-  - [x] Search Insert Position
-  - [ ] Floor/Ceil in Sorted Array
-  - [ ] Find the first or last occurrence of a given number in a sorted array
-  - [ ] Count occurrences of a number in a sorted array with duplicates
-  - [ ] Search in Rotated Sorted Array I
-  - [ ] Search in Rotated Sorted Array II
-  - [ ] Find minimum in Rotated Sorted Array
-  - [ ] Find out how many times has an array been rotated
-  - [ ] Single element in a Sorted Array
-  - [ ] Find peak element
+- [x] Binary search to find target value in sorted array
+- [ ] Implement lower bound
+- [ ] Implement upper bound
+- [x] Search insert position
+- [ ] Floor and ceiling in sorted array
+- [ ] Find the first or last occurrence of a given number in a sorted array
+- [ ] Count occurrences of a number in a sorted array with duplicates
+- [ ] Search in rotated sorted array one
+- [ ] Search in rotated sorted array two
+- [ ] Find minimum in rotated sorted array
+- [ ] Find how many times an array has been rotated
+- [ ] Single element in a sorted array
+- [ ] Find peak element
 
-- [ ] Lec 2: BS on Answers
+#### Binary search on search space answers
 
-- [ ] Find square root of a number in log n
-- [ ] Find the Nth root of a number using binary search
-- [ ] Koko Eating Bananas
-- [ ] Minimum days to make M bouquets
-- [ ] Find the smallest Divisor
-- [ ] Capacity to Ship Packages within D Days
-- [ ] Kth Missing Positive Number
-- [ ] Aggressive Cows
-- [ ] Book Allocation Problem
-- [ ] Split array - Largest Sum
+- [ ] Find square root of a number in logarithmic time
+- [ ] Find the nth root of a number using binary search
+- [ ] Koko eating bananas
+- [ ] Minimum days to make m bouquets
+- [ ] Find the smallest divisor
+- [ ] Capacity to ship packages within d days
+- [ ] Kth missing positive number
+- [ ] Aggressive cows
+- [ ] Book allocation problem
+- [ ] Split array with largest sum
 - [ ] Painter's partition
-- [ ] Minimize Max Distance to Gas Station
-- [ ] Median of 2 sorted arrays
-- [ ] Kth element of 2 sorted arrays
+- [ ] Minimize maximum distance to gas station
+- [ ] Median of two sorted arrays
+- [ ] Kth element of two sorted arrays
 
-- [ ] Lec 3: BS on 2D Arrays
+#### Binary search on two-dimensional arrays
 
-  - [ ] Find the row with maximum number of 1's
-  - [ ] Search in a 2D matrix
-  - [ ] Search in a row and column wise sorted matrix
-  - [ ] Find Peak Element (2D Matrix)
-  - [ ] Matrix Median
+- [ ] Find the row with maximum number of ones
+- [ ] Search in a two-dimensional matrix
+- [ ] Search in a row and column sorted matrix
+- [ ] Find peak element in a two-dimensional matrix
+- [ ] Matrix median
 
-## Strings [Basic and Medium]
+### Strings
 
-- [ ] Lec 1: Basic and Easy String Problems
+#### Basic and easy string problems
 
-  - [x] Remove outermost Paranthesis
-  - [x] Reverse words in a given string / Palindrome Check
-  - [x] Largest odd number in a string
-  - [x] Longest Common Prefix
-  - [x] Smallest Missing Integer Greater Than Sequential Prefix Sum
-  - [x] Isomorphic String
-  - [x] check whether one string is a rotation of another
-  - [x] Check if two strings are anagram of each other
+- [x] Remove outermost parentheses
+- [x] Reverse words in a given string and palindrome check
+- [x] Largest odd number in a string
+- [x] Longest common prefix
+- [x] Smallest missing integer greater than sequential prefix sum
+- [x] Isomorphic string
+- [x] Check whether one string is a rotation of another
+- [x] Check if two strings are anagrams of each other
 
-## **Recursion**
+### Recursion
 
-- [ ] Implementation Problems
-- [ ] Subsequence Pattern Problems
-- [ ] FAQs (Medium)
-- [ ] Hard
-- [ ] FAQs (Hard)
-- [ ] Contest
+- [ ] Implementation problems
+- [ ] Subsequence pattern problems
+- [ ] Medium difficulty frequently asked questions
+- [ ] Hard problems
+- [ ] Hard difficulty frequently asked questions
+- [ ] Contest problems
 
-## **Linked List**
+### Linked lists
 
-- [ ] Fundamentals (Single LL)
-- [ ] Fundamentals (Doubly LL)
-- [ ] Logic Building
-- [ ] FAQs (Medium)
-- [ ] FAQs (Hard)
-- [ ] FAQs (DLL)
-- [ ] Contest
+- [ ] Fundamentals for singly linked lists
+- [ ] Fundamentals for doubly linked lists
+- [ ] Logic building
+- [ ] Medium difficulty frequently asked questions
+- [ ] Hard difficulty frequently asked questions
+- [ ] Frequently asked questions for doubly linked lists
+- [ ] Contest problems
 
-## **Bit Manipulation**
+### Bit manipulation
 
 - [ ] Theory
 - [ ] Problems
-- [ ] Contest
+- [ ] Contest problems
 
-## **Greedy Algorithms**
+### Greedy algorithms
 
-- [ ] Easy
-- [ ] Scheduling and Interval Problems
-- [ ] Hard
-- [ ] Contest
+- [ ] Easy problems
+- [ ] Scheduling and interval problems
+- [ ] Hard problems
+- [ ] Contest problems
 
-## **Sliding Window / Two Pointer**
+### Sliding window and two pointers
 
-- [ ] Pattern and Template
-- [ ] Constant Window
-- [ ] Longest & Smallest Window Problems
-- [ ] Counting Subarrays / Substrings Problems
-- [ ] Contest
+- [ ] Pattern and template
+- [ ] Constant window
+- [ ] Longest and smallest window problems
+- [ ] Counting subarrays and substrings
+- [ ] Contest problems
 
-## **Stack / Queues**
+### Stacks and queues
 
 - [ ] Implementation
-- [ ] Monotonic Stack
-- [ ] FAQs
-- [ ] Contest
+- [ ] Monotonic stack
+- [ ] Frequently asked questions
+- [ ] Contest problems
 
-## **Binary Trees**
+### Binary trees
 
-- [ ] Theory / Traversals
-- [ ] Medium Problems
-- [ ] FAQs
-- [ ] Construction Problems
-- [ ] Traversal in Constant Space
-- [ ] Contest
+- [ ] Theory and traversals
+- [ ] Medium problems
+- [ ] Frequently asked questions
+- [ ] Construction problems
+- [ ] Traversal in constant space
+- [ ] Contest problems
 
-## **Binary Search Trees**
+### Binary search trees
 
-- [ ] Theory and Basics
-- [ ] Medium
-- [ ] FAQs
-- [ ] Contest
+- [ ] Theory and basics
+- [ ] Medium problems
+- [ ] Frequently asked questions
+- [ ] Contest problems
 
-## **Heaps**
+### Heaps
 
-- [ ] Theory and Implementation
-- [ ] FAQs
-- [ ] Contest
+- [ ] Theory and implementation
+- [ ] Frequently asked questions
+- [ ] Contest problems
 
-## **Graphs**
+### Graphs
 
-- [ ] Theory and Traversals
-- [ ] Traversal Problems
+- [ ] Theory and traversals
+- [ ] Traversal problems
 - [ ] Cycles
-- [ ] Hard Problems
-- [ ] Shortest Path Algorithms
-- [ ] Minimum Spanning Tree
-- [ ] Hard Problems II
-- [ ] Additional Algorithms
-- [ ] Contest
+- [ ] Hard problems part one
+- [ ] Shortest path algorithms
+- [ ] Minimum spanning tree
+- [ ] Hard problems part two
+- [ ] Additional algorithms
+- [ ] Contest problems
 
-## **Dynamic Programming**
+### Dynamic programming
 
 - [ ] Introduction
-- [ ] 1D DP
-- [ ] 2D DP
-- [ ] DP on Grids
-- [ ] DP on Stocks
-- [ ] DP on Subsequences
-- [ ] LIS
-- [ ] DP on Strings
-- [ ] MCM DP
-- [ ] Contest
+- [ ] One-dimensional dynamic programming
+- [ ] Two-dimensional dynamic programming
+- [ ] Dynamic programming on grids
+- [ ] Dynamic programming on stocks
+- [ ] Dynamic programming on subsequences
+- [ ] Longest increasing subsequence
+- [ ] Dynamic programming on strings
+- [ ] Matrix chain multiplication dynamic programming
+- [ ] Contest problems
 
-## **Tries**
+### Tries
 
 - [ ] Theory
 - [ ] Problems
 
-## **Strings (Advanced Algorithms)**
+### Advanced string algorithms
 
-- [ ] Medium Problems
-- [ ] Advanced Problems (Less Asked)
-- [ ] Contest
+- [ ] Medium problems
+- [ ] Advanced or less common problems
+- [ ] Contest problems
 
-## **Maths**
+### Mathematics
 
 - [ ] Sieve of Eratosthenes
-- [ ] Contest
+- [ ] Contest problems
